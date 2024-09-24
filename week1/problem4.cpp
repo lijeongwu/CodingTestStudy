@@ -1,10 +1,10 @@
-// ë¬¸ì œ3. ë‘ ìˆ˜ì˜ ê³±
+// ¹®Á¦4. ¸ò ±¸ÇÏ±â
 #include <string>
 #include <vector>
 using namespace std;
 
-// num1ê³¼ num2ë¥¼ ê³±í•œ ì •ìˆ˜ë¥¼ ë¦¬í„´í•˜ëŠ” í•¨ìˆ˜
+// num1À» num2·Î ³ª´« ¸òÀ» ¹İÈ¯ÇÏ´Â ÇÔ¼ö
 int solution(int num1, int num2) {
-    int answer = num1 * num2;
+    int answer = num1 / num2;
     return answer;
 }
