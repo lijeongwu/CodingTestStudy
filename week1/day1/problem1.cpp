@@ -1,8 +1,8 @@
-// ¹®Á¦1. µÎ ¼öÀÇ ÇÕ
+// ë¬¸ì œ1. ë‘ ìˆ˜ì˜ í•©
 #include <string>
 #include <vector>
 
-// num1°ú num2¸¦ ´õÇÑ Á¤¼ö¸¦ ¸®ÅÏÇÏ´Â ÇÔ¼ö
+// num1ê³¼ num2ë¥¼ ë”í•œ ì •ìˆ˜ë¥¼ ë¦¬í„´í•˜ëŠ” í•¨ìˆ˜
 int solution(int num1, int num2) { 
     int answer = num1 + num2;
     return answer;

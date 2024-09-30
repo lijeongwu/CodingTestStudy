@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week1\\problem4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\problem4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week1\\day1\\problem4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\probelm2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week1\\day1\\probelm2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\problem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week1\\day1\\problem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week1\\problem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week1\\problem4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\probelm2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,31 +47,66 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "problem4.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem4.cpp",
-              "RelativeDocumentMoniker": "week1\\problem4.cpp",
-              "ToolTip": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem4.cpp",
-              "RelativeToolTip": "week1\\problem4.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\problem4.cpp",
+              "RelativeDocumentMoniker": "week1\\day1\\problem4.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\problem4.cpp",
+              "RelativeToolTip": "week1\\day1\\problem4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T12:04:46.117Z",
+              "WhenOpened": "2024-09-25T15:04:11.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "probelm2.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\probelm2.cpp",
+              "RelativeDocumentMoniker": "week1\\day1\\probelm2.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\probelm2.cpp",
+              "RelativeToolTip": "week1\\day1\\probelm2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T15:03:34.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "problem1.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\problem1.cpp",
+              "RelativeDocumentMoniker": "week1\\day1\\problem1.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\day1\\problem1.cpp",
+              "RelativeToolTip": "week1\\day1\\problem1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T15:03:18.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "problem4.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem4.cpp",
+              "RelativeDocumentMoniker": "week1\\problem4.cpp",
+              "ToolTip": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem4.cpp",
+              "RelativeToolTip": "week1\\problem4.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T12:04:46.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "problem3.cpp",
               "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem3.cpp",
               "RelativeDocumentMoniker": "week1\\problem3.cpp",
               "ToolTip": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem3.cpp",
               "RelativeToolTip": "week1\\problem3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T12:02:32.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T12:02:32.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "problem1.cpp",
               "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\problem1.cpp",
               "RelativeDocumentMoniker": "week1\\problem1.cpp",
@@ -67,12 +114,11 @@
               "RelativeToolTip": "week1\\problem1.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T12:01:28.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T12:01:28.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "probelm2.cpp",
               "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\CodingTestStudy\\week1\\probelm2.cpp",
               "RelativeDocumentMoniker": "week1\\probelm2.cpp",
@@ -80,12 +126,11 @@
               "RelativeToolTip": "week1\\probelm2.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-24T11:14:54.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T11:14:54.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "problem1.cpp",
               "DocumentMoniker": "C:\\Users\\\uC774\uC815\uC6B0\\source\\repos\\CodingTestStudy\\week1\\problem1.cpp",
               "RelativeDocumentMoniker": "..\\source\\repos\\CodingTestStudy\\week1\\problem1.cpp",

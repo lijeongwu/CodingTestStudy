@@ -1,10 +1,11 @@
-// ¹®Á¦4. ¸ò ±¸ÇÏ±â
+// day3 1. ë‚˜ë¨¸ì§€ êµ¬í•˜ê¸°
 #include <string>
 #include <vector>
+
 using namespace std;
 
-// num1À» num2·Î ³ª´« ¸òÀ» ¹İÈ¯ÇÏ´Â ÇÔ¼ö
+// ë‚˜ë¨¸ì§€ ì—°ì‚°ì % í™œìš©
 int solution(int num1, int num2) {
-    int answer = num1 / num2;
+    int answer = (num1 % num2);
     return answer;
 }
